@@ -40,19 +40,19 @@ The initial net consists of only one neuron.
 ### 250 iterations
 The net has grown more neurons.
 
-![250](https://github.com/chrisbloecker/cg/blob/master/img/250.png?raw=true)
+![250](https://github.com/chrisbloecker/tspsom/blob/master/img/250.png?raw=true)
 
 ### 500 iterations
 The net has grown more neurons and starts to adapt to the problem instance's "shape".
 
-![500](https://github.com/chrisbloecker/cg/blob/master/img/500.png?raw=true)
+![500](https://github.com/chrisbloecker/tspsom/blob/master/img/500.png?raw=true)
 
 ### 1000 iterations
 The net covers almost all locations in the map now and only fine tuning is left to be done. By now the learning rate has decayed far enough so that the general shape of the net will remain.
 
-![1000](https://github.com/chrisbloecker/cg/blob/master/img/1000.png?raw=true)
+![1000](https://github.com/chrisbloecker/tspsom/blob/master/img/1000.png?raw=true)
 
 ### 10000 iterations
 Fine tuning is done and the net represents a candidate solution to the instance of the tsp.
 
-![10000](https://github.com/chrisbloecker/cg/blob/master/img/10000.png?raw=true)
+![10000](https://github.com/chrisbloecker/tspsom/blob/master/img/10000.png?raw=true)
